@@ -1,0 +1,20 @@
+/opt/clion-2019.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/anton/AKnuazev/labs/lab06_multithreads
+-- [hunter] Calculating Toolchain-SHA1
+-- [hunter] Calculating Config-SHA1
+-- [hunter] HUNTER_ROOT: /home/anton/.hunter
+-- [hunter] [ Hunter-ID: 9a3594a | Toolchain-ID: bcfb592 | Config-ID: 48401e9 ]
+-- [hunter] BOOST_ROOT: /home/anton/.hunter/_Base/9a3594a/bcfb592/48401e9/Install (ver.: 1.70.0-p0)
+-- [hunter] BOOST_ROOT: /home/anton/.hunter/_Base/9a3594a/bcfb592/48401e9/Install (ver.: 1.70.0-p0)
+-- [hunter] BOOST_ROOT: /home/anton/.hunter/_Base/9a3594a/bcfb592/48401e9/Install (ver.: 1.70.0-p0)
+-- [hunter] BOOST_ROOT: /home/anton/.hunter/_Base/9a3594a/bcfb592/48401e9/Install (ver.: 1.70.0-p0)
+-- [hunter] BOOST_ROOT: /home/anton/.hunter/_Base/9a3594a/bcfb592/48401e9/Install (ver.: 1.70.0-p0)
+-- Boost version: 1.70.0
+-- Found the following Boost libraries:
+--   filesystem
+--   log
+--   log_setup
+--   system
+--   thread
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/anton/AKnuazev/labs/lab06_multithreads/cmake-build-debug

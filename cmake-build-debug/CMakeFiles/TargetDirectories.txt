@@ -1,0 +1,3 @@
+/home/anton/AKnuazev/labs/lab06_multithreads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/anton/AKnuazev/labs/lab06_multithreads/cmake-build-debug/CMakeFiles/Multithreads.dir
+/home/anton/AKnuazev/labs/lab06_multithreads/cmake-build-debug/CMakeFiles/edit_cache.dir
